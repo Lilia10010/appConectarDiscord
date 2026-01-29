@@ -132,21 +132,6 @@ Edge cases a considerar
 - Validação mínima presente — proteger endpoints e validar dados em produção.
 - Horários convertidos para minutos; formatadores cuidam da conversão ao exibir.
 
-## Desenvolvimento e contribuições
-
-- Sinta-se à vontade para abrir issues e pull requests.
-- Sugestões de melhorias: autenticação, paginação dos anúncios, filtros por disponibilidade, testes automatizados e deploy com variáveis de ambiente seguras.
-
-## Observações finais
-
-Este README foi gerado/atualizado para descrever a finalidade de cada parte do monorepo e facilitar que novos colaboradores ou você mesmo voltem ao projeto sem perder contexto.
-
-Se quiser, posso:
-
-- adicionar exemplos de requests (curl / HTTPie) para cada endpoint;
-- gerar um Postman/Insomnia collection;
-- adicionar ações de CI simples ou scripts de start mais automatizados.
-
 ---
 
 Licença: ver repositório (ou adicione uma license se desejar).
